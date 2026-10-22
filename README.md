@@ -44,7 +44,7 @@ pass -c Work/LinkedIn
 # To sync changes to GitHub
 pass git push
 
-👨‍💻 Portfolio Takeaways
+# 👨‍💻 Portfolio Takeaways
 This project was built to showcase my proficiency in:
 
 -Managing encryption keys and digital identities.
