@@ -43,11 +43,12 @@ pass -c Work/LinkedIn
 
 # To sync changes to GitHub
 pass git push
+
 👨‍💻 Portfolio Takeaways
 This project was built to showcase my proficiency in:
 
-Managing encryption keys and digital identities.
+-Managing encryption keys and digital identities.
 
-Navigating the Linux filesystem and CLI environments.
+-Navigating the Linux filesystem and CLI environments.
 
-Implementing secure DevOps workflows for sensitive data.
+-Implementing secure DevOps workflows for sensitive data.
